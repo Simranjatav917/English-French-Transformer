@@ -1,4 +1,4 @@
-# Neural-Machine-Translation-with-Transformer
+# English–French Transformer
 
 Transformers are the craze right now (especially in the NLP domain) and so it is natural (or even required) for any Deep Learning enthusiast to have undergone the underlying concepts and/or apply them in their own work. In this project, the aim is to use Transformers in the context of translation (from English to French). The dataset has been taken from http://www.manythings.org/bilingual/ and it is quite similar to one of my other projects (https://github.com/garganm1/Neural-Machine-Translation-with-Bahdanau-Attention) which incorporates an LSTM based Encoder-Decoder system to learn and translate (applied with Bahdanau Attention)
 
